@@ -202,8 +202,7 @@
 
 </div>
 <div align="right">
-  
-  ![Snake animation](https://github.com/weird-samuel/weird-samuel/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
 
