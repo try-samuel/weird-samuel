@@ -82,7 +82,6 @@
     <thead>
       <tr>
         <th colspan="3">Frameworks & Libraries </th>
-        <th colspan="3">Agile Methodologies</th>
       </tr>
     </thead>
     <tr>
@@ -92,12 +91,10 @@
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /></td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
       <tr align="center"> 
         <td align="center" width=110>Bootstrap</td>
         <td align="center" width=110>Tailwind</td>
         <td align="center" width=110>React</td>
-        <td align="center" width=110>JQuery</td>
       </tr>
     </tr>
   </table>
