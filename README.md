@@ -69,11 +69,9 @@
     </tr>
     <tr>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
     <tr>
-      <td align="center" width=110>MySQL</td>
-      <td align="center" width=110>Ba$h</td>
+      <td align="center" width=110>SQL</td>
       <td align="center" width=110>Markdown</td>
     </tr>
   </table>
