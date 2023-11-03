@@ -117,12 +117,12 @@
       <td align="center" width=110>VSCode</td>
     </tr>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
+
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> </td>
     </tr>
     <tr> 
-      <td align="center" width=110>Google Cloud</td>
+
       <td align="center" width=110>CodePen</td>
       <td align="center" width=110>N P M</td>
     </tr>
