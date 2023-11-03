@@ -94,7 +94,6 @@
         <td align="center" width=110>Tailwind</td>
         <td align="center" width=110>React</td>
       </tr>
-    </tr>
   </table>
   <table>
     <thead>
