@@ -133,11 +133,11 @@
     <tr>
       <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" /></td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" /></td>
     <tr> 
       <td align="center" width=110>Windows</td>
       <td align="center" width=110>Linux</td>
-      <td align="center" width=110>RedHat</td>
+      <td align="center" width=110>Ububtu</td>
     </tr>
   </table>
 </div>
