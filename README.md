@@ -23,7 +23,7 @@
   <p align="center">
 <a href="https://www.linkedin.com/in/samuel-adekunle-a995a8213/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp; <a href="mailto:fiyinfoluwasamuel580@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <a href="https://twitter.com/sameu_q"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 
-<a href="https://drive.google.com/file/d/1z8xBzO9KvZT_kn_gnEGSqaI5YfmSl9k3/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
+<a href="https://drive.google.com/file/d/1hNlpS7cGF-L3MCxKG19RbS2V4kmGrNHg/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
 </p><br>
 
 <!-- BADGES -->
