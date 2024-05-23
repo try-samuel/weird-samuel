@@ -145,7 +145,6 @@
 
 
 
-F
 ## 📊 GitHub Statistics
 <table>
 <tr>
