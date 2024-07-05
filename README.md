@@ -30,9 +30,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=weird-samuel&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
   </div>
 
-  ### Contribution Heat Map:
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=weird-samuel&show_icons=true&count_private=true&hide=stars&hide_title=true&include_all_commits=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff" alt="GitHub Heat Map" />
+  <!-- Heat Map Section -->
+  <h3 align="center">Contribution Heat Map:</h3>
+  <div align="center">
+    <img src="https://ghchart.rshah.org/weird-samuel" alt="GitHub Heat Map" />
   </div>
 </div>
