@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Résumé" />
   </a>
 </h3>
+
 <div align="center">
   <table>
     <tr>
@@ -22,8 +23,16 @@
       </td>
     </tr>
   </table>
-The Pace:
+
+  ### The Pace:
+
   <div>
     <img src="https://github-profile-trophy.vercel.app/?username=weird-samuel&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+  </div>
+
+  ### Contribution Heat Map:
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=weird-samuel&show_icons=true&count_private=true&hide=stars&hide_title=true&include_all_commits=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff" alt="GitHub Heat Map" />
   </div>
 </div>
